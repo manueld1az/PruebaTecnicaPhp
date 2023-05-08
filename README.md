@@ -7,6 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<p><img align="right" src="https://github.com/manueld1az/PruebaTecnicaLaravel/blob/main/Diagrama%20Entidad%20Relacion.png" alt="manueld1az" /></p>
+<p><img align="right" src="https://github.com/manueld1az/PruebaTecnicaPhp/blob/main/Diagrama%20Entidad%20Relacion.png" alt="manueld1az" /></p>
 
 # PruebaTecnicaLaravel
